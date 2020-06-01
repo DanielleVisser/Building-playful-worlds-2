@@ -578,7 +578,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 492988339}
-  m_LocalRotation: {x: -0, y: -0, z: 0.02658162, w: 0.99964666}
+  m_LocalRotation: {x: -0, y: -0, z: 0.022694923, w: 0.99974245}
   m_LocalPosition: {x: -2.55, y: -3.92, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
@@ -613,7 +613,7 @@ MonoBehaviour:
   m_PointLightInnerAngle: 360
   m_PointLightOuterAngle: 360
   m_PointLightInnerRadius: 0
-  m_PointLightOuterRadius: 1.5354697
+  m_PointLightOuterRadius: 1.8194228
   m_PointLightDistance: 3
   m_PointLightQuality: 1
   m_ShapeLightParametricSides: 5
@@ -6698,7 +6698,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 907606297}
-  m_LocalRotation: {x: -0, y: -0, z: 0.02658162, w: 0.99964666}
+  m_LocalRotation: {x: -0, y: -0, z: 0.021648781, w: 0.99976563}
   m_LocalPosition: {x: 1.43, y: -3.92, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
@@ -6733,7 +6733,7 @@ MonoBehaviour:
   m_PointLightInnerAngle: 360
   m_PointLightOuterAngle: 360
   m_PointLightInnerRadius: 0
-  m_PointLightOuterRadius: 1.5354697
+  m_PointLightOuterRadius: 1.9809906
   m_PointLightDistance: 3
   m_PointLightQuality: 1
   m_ShapeLightParametricSides: 5
@@ -6770,7 +6770,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 927908127}
-  m_LocalRotation: {x: -0, y: -0, z: 0.02658162, w: 0.99964666}
+  m_LocalRotation: {x: -0, y: -0, z: 0.002631611, w: 0.99999654}
   m_LocalPosition: {x: -6.69, y: -3.92, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
@@ -6805,7 +6805,7 @@ MonoBehaviour:
   m_PointLightInnerAngle: 360
   m_PointLightOuterAngle: 360
   m_PointLightInnerRadius: 0
-  m_PointLightOuterRadius: 1.5354697
+  m_PointLightOuterRadius: 1.8643467
   m_PointLightDistance: 3
   m_PointLightQuality: 1
   m_ShapeLightParametricSides: 5
@@ -8247,7 +8247,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1583903050}
-  m_LocalRotation: {x: -0, y: -0, z: 0.02658162, w: 0.99964666}
+  m_LocalRotation: {x: -0, y: -0, z: 0.041186728, w: 0.99915147}
   m_LocalPosition: {x: -10.58, y: -3.89, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
@@ -8282,7 +8282,7 @@ MonoBehaviour:
   m_PointLightInnerAngle: 360
   m_PointLightOuterAngle: 360
   m_PointLightInnerRadius: 0
-  m_PointLightOuterRadius: 1.5354697
+  m_PointLightOuterRadius: 1.9016366
   m_PointLightDistance: 3
   m_PointLightQuality: 1
   m_ShapeLightParametricSides: 5

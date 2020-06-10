@@ -71,7 +71,7 @@ MonoBehaviour:
   m_AdvancedMode: 0
   threshold:
     m_OverrideState: 1
-    m_Value: 1.09
+    m_Value: 1.78
     min: 0
   intensity:
     m_OverrideState: 1
@@ -137,11 +137,11 @@ MonoBehaviour:
     m_Value: 1
   focusDistance:
     m_OverrideState: 1
-    m_Value: 32.7
+    m_Value: 1
     min: 0.1
   aperture:
     m_OverrideState: 1
-    m_Value: 16.1
+    m_Value: 14.6
     min: 1
     max: 32
   focalLength:

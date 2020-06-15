@@ -115,7 +115,7 @@ MonoBehaviour:
   m_MinSize: {x: 578, y: 471}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 2130
+  controlID: 2666
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -140,7 +140,7 @@ MonoBehaviour:
   m_MinSize: {x: 302, y: 471}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 2131
+  controlID: 2667
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -165,7 +165,7 @@ MonoBehaviour:
   m_MinSize: {x: 302, y: 200}
   m_MaxSize: {x: 8002, y: 4021}
   vertical: 0
-  controlID: 2132
+  controlID: 2668
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -395,9 +395,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: 3cfbffff
+      m_SelectedIDs: c8500000
+      m_LastClickedID: 20680
+      m_ExpandedIDs: c0f1ffff32f5ffff8ef6ffff88f7ffff3cfbffffdc500000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -457,9 +457,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 751.9067, y: 275.4199, z: -1180.6}
+    m_Target: {x: 773.1325, y: 159.9591, z: -2003}
     speed: 2
-    m_Value: {x: 751.9067, y: 275.4199, z: -1180.6}
+    m_Value: {x: 773.1325, y: 159.9591, z: -2003}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -509,9 +509,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 2992.1216
+    m_Target: 2834.901
     speed: 2
-    m_Value: 2992.1216
+    m_Value: 2968.4827
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -628,20 +628,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scenes
+    - Assets/Sound/Scene 2
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scenes
+  - Assets/Sound/Scene 2
   m_LastFoldersGridSize: -1
   m_LastProjectPath: D:\Schoolwerk opslag\Building playful worlds II\Virtual game
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 7e450000
-    m_LastClickedID: 17790
-    m_ExpandedIDs: 00000000984200003445000036450000384500003a4500003c4500003e4500004045000042450000444500004645000000ca9a3b
+    scrollPos: {x: 0, y: 26}
+    m_SelectedIDs: 90450000
+    m_LastClickedID: 17808
+    m_ExpandedIDs: 000000009842000036450000384500003a4500003c4500003e45000040450000424500004445000046450000484500008a45000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -669,7 +669,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000984200003445000036450000384500003a4500003c4500003e4500004045000042450000444500004645000000ca9a3b
+    m_ExpandedIDs: 000000009842000036450000384500003a4500003c4500003e450000404500004245000044450000464500004845000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -779,7 +779,7 @@ MonoBehaviour:
   m_ViewDataDictionary: {fileID: 0}
   m_LockTracker:
     m_IsLocked: 0
-  m_LastSelectedObjectID: 17474
+  m_LastSelectedObjectID: 20680
 --- !u!114 &20
 MonoBehaviour:
   m_ObjectHideFlags: 52

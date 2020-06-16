@@ -99,7 +99,7 @@ LightmapSettings:
     m_LightProbeSampleCountMultiplier: 4
   m_LightingDataAsset: {fileID: 112000000, guid: 35f08545542a0d9418f82873e6c2e716,
     type: 2}
-  m_UseShadowmask: 0
+  m_UseShadowmask: 1
 --- !u!196 &4
 NavMeshSettings:
   serializedVersion: 2
@@ -248,7 +248,7 @@ PrefabInstance:
     - target: {fileID: 2632123600748242970, guid: fc7ed3349edd18a40a29a3593dceac24,
         type: 3}
       propertyPath: m_RootOrder
-      value: 2
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 2632123600748242970, guid: fc7ed3349edd18a40a29a3593dceac24,
         type: 3}
@@ -1299,12 +1299,12 @@ PrefabInstance:
     - target: {fileID: 4450900548704236408, guid: 362803cebb2e138459e2ba58d356dba0,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 12.795759
+      value: 12.792758
       objectReference: {fileID: 0}
     - target: {fileID: 4450900548704236408, guid: 362803cebb2e138459e2ba58d356dba0,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.1560173
+      value: 0.14540291
       objectReference: {fileID: 0}
     - target: {fileID: 4450900548704236408, guid: 362803cebb2e138459e2ba58d356dba0,
         type: 3}
@@ -16575,7 +16575,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!50 &1488509572
 Rigidbody2D:

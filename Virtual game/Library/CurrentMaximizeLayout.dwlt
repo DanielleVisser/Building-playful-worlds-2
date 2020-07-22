@@ -575,9 +575,9 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 
-    m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_SelectedInstanceIDs: 304a0000
+    m_LastClickedInstanceID: 18992
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000363800003a550000ae470000cc4b00009c880000ae45000004540000a84b000000000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -725,7 +725,7 @@ MonoBehaviour:
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
   m_PreviewWindow: {fileID: 0}
-  m_LastInspectedObjectInstanceID: -1
+  m_LastInspectedObjectInstanceID: 18992
   m_LastVerticalScrollValue: 0
 --- !u!114 &17
 MonoBehaviour:
